@@ -2,9 +2,12 @@ Source code for "A comparative study of time–frequency features based spatio-t
 Link: https://www.sciencedirect.com/science/article/pii/S1746809425003374
 
 
-figures.ipynb: code for making the major figures in the manuscirpt.
+Figures.ipynb: Code for making the major figures in the manuscript.
 
- 
+Featurization.ipynb: Extract 4 necessary features Diffrential Entropy (DE), Wavelet Energy (WE), Cross Corelation (XCOR), and Phase Locking Value (PLV) from EEG data.
+
+If you find this helpful, kindly cite this.
+
 @article{KHAN2025107826,
 title = {A comparative study of time–frequency features based spatio-temporal analysis with varying multiscale kernels for emotion recognition from EEG},
 journal = {Biomedical Signal Processing and Control},

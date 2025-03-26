@@ -1,6 +1,8 @@
 Source code for "A comparative study of time–frequency features based spatio-temporal analysis with varying multiscale kernels for emotion recognition from EEG", Md Raihan Khan, Airin Akter Tania, Mohiuddin Ahmad.
 Link: https://www.sciencedirect.com/science/article/pii/S1746809425003374
 
+Dataset Source: DEAP dataset can be downloaded from https://www.eecs.qmul.ac.uk/mmv/datasets/deap/download.html
+
 
 Figures.ipynb: Code for making the major figures in the manuscript.
 

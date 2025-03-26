@@ -1,5 +1,8 @@
-Source code for "A comparative study of time–frequency features based spatio-temporal analysis with varying multiscale kernels for emotion recognition from EEG".
-Link: https://www.sciencedirect.com/science/article/pii/S1746809425003374?via%3Dihub
+Source code for "A comparative study of time–frequency features based spatio-temporal analysis with varying multiscale kernels for emotion recognition from EEG", Md Raihan Khan, Airin Akter Tania, Mohiuddin Ahmad.
+Link: https://www.sciencedirect.com/science/article/pii/S1746809425003374
+
+
+figures.ipynb: code for making the major figures in the manuscirpt.
 
  
 @article{KHAN2025107826,

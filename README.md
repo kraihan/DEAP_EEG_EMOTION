@@ -23,7 +23,9 @@ author = {Md Raihan Khan, Airin Akter Tania,  Mohiuddin Ahmad},
   booktitle={2024 International Conference on Advances in Computing, Communication, Electrical, and Smart Systems (iCACCESS)}, 
   title={Mental Stress Detection from EEG Signals Using Comparative Analysis of Random Forest and Recurrent Neural Network}, 
   year={2024},
-  volume={},
-  number={},
   pages={1-6},
-  doi={10.1109/iCACCESS61735.2024.10499496}}
+  doi={https://doi.org/10.1109/iCACCESS61735.2024.10499496}}
+
+
+
+

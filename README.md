@@ -4,8 +4,7 @@ Link: https://www.sciencedirect.com/science/article/pii/S1746809425003374
 For any information, kindly email me: kraihan918@gmail.com
 
 Dataset Source: The DEAP dataset can be downloaded from https://www.eecs.qmul.ac.uk/mmv/datasets/deap/download.html
-
-Project Files Overview:
+<h3> Project Files Overview: </h3>
 
 Figures.ipynb: Contains the code for generating significant figures used in the manuscript
 

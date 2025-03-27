@@ -1,12 +1,24 @@
 Source code for "A comparative study of time–frequency features based spatio-temporal analysis with varying multiscale kernels for emotion recognition from EEG", Md Raihan Khan, Airin Akter Tania, Mohiuddin Ahmad.
 Link: https://www.sciencedirect.com/science/article/pii/S1746809425003374
 
-Dataset Source: DEAP dataset can be downloaded from https://www.eecs.qmul.ac.uk/mmv/datasets/deap/download.html
+Dataset Source: The DEAP dataset can be downloaded from https://www.eecs.qmul.ac.uk/mmv/datasets/deap/download.html
 
 
-Figures.ipynb: Code for making the major figures in the manuscript.
+Figures.ipynb: Code for making the significant figures in the manuscript.
 
-Featurization.ipynb: Extract 4 necessary features Diffrential Entropy (DE), Wavelet Energy (WE), Cross Corelation (XCOR), and Phase Locking Value (PLV) from EEG data.
+Featurization.ipynb: Extract 4 necessary features, Differential Entropy (DE), Wavelet Energy (WE), Cross Correlation (XCOR), and Phase Locking Value (PLV) from EEG data.
+
+model-training.ipynb: Code for training the proposed model. Change the feature type and kernel size for the desired output. Accuracy can be reached up to 98.97%.
+
+DE-arousal-kernel-3.ipynb: another code for model training.
+
+cnn_classifier_wavelet_energy_arousal_full_3.pth: Trained model Weight. This weight is trained on 10% data, so not perform as proposed. This is provided for usability.   
+
+Future Research Direction: 
+ 1. 
+
+
+
 
 If you find this helpful, kindly cite this.
 

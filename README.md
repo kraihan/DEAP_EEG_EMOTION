@@ -17,6 +17,8 @@ DE-arousal-kernel-3.ipynb: An alternative implementation for training the model
 cnn_classifier_wavelet_energy_arousal_full_3.pth: Trained model Weight.  Pretrained model weights. This model was trained on only 10% of the data, so its performance is not as high as the fully trained version but is provided for usability.   
 
 <h3> Future Research Directions: </h3>
+
+
 If you're interested in further research or writing a paper in this field, consider the following:
  1. Filter Size Variation – Experiment with different convolution filter sizes and analyze their impact on accuracy.
  2. Model Complexity Optimization – Adjust the number of convolutional layers to explore accuracy dependencies while reducing model complexity.

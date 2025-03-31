@@ -1,6 +1,6 @@
 <img src="https://github.com/kraihan/DEAP_EEG_EMOTION/blob/main/graphical%20abstract.png" alt="A comparative study of time–frequency features based spatio-temporal analysis with varying multiscale kernels for emotion recognition from EEG" width="800" height="400" align="center">
 
-Source code for "A comparative study of time–frequency features based spatio-temporal analysis with varying multiscale kernels for emotion recognition from EEG", Md Raihan Khan, Airin Akter Tania, Mohiuddin Ahmad.
+Source code for <b>"A comparative study of time–frequency features based spatio-temporal analysis with varying multiscale kernels for emotion recognition from EEG"</b>, Md Raihan Khan, Airin Akter Tania, Mohiuddin Ahmad.
 Link: https://www.sciencedirect.com/science/article/pii/S1746809425003374
 
 For any information, kindly email me: kraihan918@gmail.com

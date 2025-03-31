@@ -1,3 +1,5 @@
+<img src="[path/to/your/image.jpg](https://github.com/kraihan/DEAP_EEG_EMOTION/blob/main/graphical%20abstract.png)" alt="Description of the image" width="500" height="300">
+
 Source code for "A comparative study of time–frequency features based spatio-temporal analysis with varying multiscale kernels for emotion recognition from EEG", Md Raihan Khan, Airin Akter Tania, Mohiuddin Ahmad.
 Link: https://www.sciencedirect.com/science/article/pii/S1746809425003374
 
